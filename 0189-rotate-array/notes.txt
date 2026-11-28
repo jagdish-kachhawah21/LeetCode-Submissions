@@ -1,0 +1,4 @@
+4. Remember the pattern
+Rotation            	Reversal order
+Right rotate by k	Whole → First k of reversed array → Remaining
+Left rotate by k	First k → Remaining → Whole
